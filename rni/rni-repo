@@ -1,0 +1,13 @@
+Name: rni
+Version: 0.0.1
+Summary: rni
+Home-page: https://rasmnout.github.io/rni
+Github Repository: https://github.com/rasmnout/rni
+Author: trspn ( Rasmnout Owner )
+Author-email: rasmnout@gmail.com
+License: Apache
+Description: Rni is used to install the package from github and other sites
+Requires: python3
+Changelog: "1.0.0: Fixed Problems."
+Rni: rasmnout/rni
+Dist: "rni-v001"
