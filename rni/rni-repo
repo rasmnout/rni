@@ -10,4 +10,4 @@ Description: Rni is used to install the package from github and other sites
 Requires: python3
 Changelog: "1.0.0: Fixed Problems."
 Rni: rasmnout/rni
-Dist: "rni-v001"
+Dist: "rni-v001.sh"
