@@ -10,4 +10,4 @@ Description: Rni is used to install the package from github and other sites
 Requires: python3
 Changelog: "* 0.0.7: Fixed Install (GIT), Search (GIT), Update (LOCAL)  * 0.0.8 Fixed Update (REMOTE)"
 Rni: rasmnout/rni
-Dist: "rni-pkg"
+Dist: "rni-pkg.py"
